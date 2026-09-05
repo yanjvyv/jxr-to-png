@@ -1,0 +1,4 @@
+# 运行产物（由 install.ps1 / watcher 生成，不入库）
+config.json
+launcher.vbs
+*.log
